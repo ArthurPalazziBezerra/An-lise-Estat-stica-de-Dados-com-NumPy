@@ -1,4 +1,4 @@
-# Analise-Estatistica-de-Dados-com-NumPy
+# Analise Estatistica de Dados com NumPy
 Este projeto realiza uma análise estatística básica utilizando a biblioteca NumPy em Python. O dataset gerado é fictício, representando informações de altura, peso e idade de 100 indivíduos.
 ## Descrição
 Este projeto realiza uma análise estatística básica utilizando a biblioteca NumPy em Python. O dataset gerado é fictício, representando informações de altura, peso e idade de 100 indivíduos.
