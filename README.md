@@ -13,4 +13,4 @@ Este projeto realiza uma análise estatística básica utilizando a biblioteca N
 - **Correlação entre Altura e Peso:** Valores próximos de zero indicam pouca ou nenhuma correlação.
 
 ## Como Usar
-Clone este repositório e execute o script Python `analysis.py` para gerar e analisar o dataset.
+Clone este repositório e execute o script Python `Projeto1.py` para gerar e analisar o dataset.
